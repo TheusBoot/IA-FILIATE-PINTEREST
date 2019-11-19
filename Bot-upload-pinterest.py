@@ -4,7 +4,7 @@ from c import Pinterest
 
 Bot_Matheus = Pinterest()
 
-Bot_Matheus.logar('emailmartingcf1@gmail.com','Matheuslorencia123')
+Bot_Matheus.logar('Username_or_login','password')
 
 
 Bot_Matheus.upload_pin(
